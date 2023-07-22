@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Fri, 21 Jul 2023 16:42:03 at https://sudoariel.github.io +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -@i4 -O /storage/emulated/0/HTTrack/Websites/portfolio -A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 https://sudoariel.github.io +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 seconds : 33 links scanned, 32 files written (946730 bytes overall) [865339 bytes received at 26222 bytes/sec], 159166 bytes transferred using HTTP compression in 15 files, ratio 29%, 16.5 requests per connection
+(No errors, 0 warnings, 0 messages)
