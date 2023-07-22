@@ -12,7 +12,9 @@ var aText = new Array(
 "> I love programming and challenges.",
 "> I am majoring in Computer Engineering .",
 "> I will be joining one of the well-known Ethiopian telecommunication companies (Ethiotele or Safaricom) as an intern Engineer in the next 6-7 months.",
+"> I am fluent in English, with a deep understanding of advanced grammar, and my spoken proficiency is slightly lower but still above intermediate level. Additionally, I am a native speaker of Amharic.",
 "> If you want to know more about me, you are in the right place :)"
+
 );
 var iSpeed = 15; // time delay of print out
 var iIndex = 0; // start printing array at this posision
