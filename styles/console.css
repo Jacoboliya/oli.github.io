@@ -21,6 +21,8 @@
   left: 1%;
   max-width: 97%;
   line-height: 120%;
+  max-height: 80hv;
+  overflow: auto;
 }
 
 @media only screen and (min-width: 300px) {
